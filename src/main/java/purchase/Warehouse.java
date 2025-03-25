@@ -7,3 +7,5 @@ public interface Warehouse {
   public void remove(String name, int amount);
   public int getAmount(String name);
 }
+
+//Lo tendremos que definir como un Mock
